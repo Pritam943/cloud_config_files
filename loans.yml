@@ -1,0 +1,14 @@
+
+
+build:
+  version: "3.0.0"
+
+
+loans:
+  message: "Welcome to EazyBank loans related local APIS"
+  contactDetails:
+    name: "Pritam Nayak - Developer"
+    email: "pritam@nayak.com"
+  onCallSupport:
+    -(222)222-1234
+    -(222)223-1432
