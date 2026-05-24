@@ -4,7 +4,7 @@ build:
 
 
 loans:
-  message: "Welcome to EazyBank loans related prod APIS"
+  message: "Welcome to EazyBank loans related webhooks loans APIS"
   contactDetails:
     name: "sabit pradhan - Product owner"
     email: "sabit@pradhan.com"
