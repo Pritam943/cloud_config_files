@@ -4,7 +4,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod-hooks APIS"
+  message: "Welcome to EazyBank accounts related prod-hooks-updated APIS"
   contactDetails:
     name: "sabit pradhan - Product owner"
     email: "sabit@pradhan.com"
