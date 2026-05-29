@@ -4,7 +4,7 @@ build:
 
 
 accounts:
- message: "Welcome to EazyBank accounts related local APIS"
+ message: "Welcome to EazyBank accounts related docker APIS"
  contactDetails:
    name: "Pritam Nayak - Developer"
    email: "pritam@nayak.com"
